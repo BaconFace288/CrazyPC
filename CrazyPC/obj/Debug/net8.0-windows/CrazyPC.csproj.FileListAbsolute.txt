@@ -1,0 +1,15 @@
+C:\Users\Seniors\OneDrive\Desktop\Software Development\CrazyPC\bin\Debug\net8.0-windows\CrazyPC.exe
+C:\Users\Seniors\OneDrive\Desktop\Software Development\CrazyPC\bin\Debug\net8.0-windows\CrazyPC.deps.json
+C:\Users\Seniors\OneDrive\Desktop\Software Development\CrazyPC\bin\Debug\net8.0-windows\CrazyPC.runtimeconfig.json
+C:\Users\Seniors\OneDrive\Desktop\Software Development\CrazyPC\bin\Debug\net8.0-windows\CrazyPC.dll
+C:\Users\Seniors\OneDrive\Desktop\Software Development\CrazyPC\bin\Debug\net8.0-windows\CrazyPC.pdb
+C:\Users\Seniors\OneDrive\Desktop\Software Development\CrazyPC\obj\Debug\net8.0-windows\CrazyPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seniors\OneDrive\Desktop\Software Development\CrazyPC\obj\Debug\net8.0-windows\CrazyPC.AssemblyInfoInputs.cache
+C:\Users\Seniors\OneDrive\Desktop\Software Development\CrazyPC\obj\Debug\net8.0-windows\CrazyPC.AssemblyInfo.cs
+C:\Users\Seniors\OneDrive\Desktop\Software Development\CrazyPC\obj\Debug\net8.0-windows\CrazyPC.csproj.CoreCompileInputs.cache
+C:\Users\Seniors\OneDrive\Desktop\Software Development\CrazyPC\obj\Debug\net8.0-windows\CrazyPC.sourcelink.json
+C:\Users\Seniors\OneDrive\Desktop\Software Development\CrazyPC\obj\Debug\net8.0-windows\CrazyPC.dll
+C:\Users\Seniors\OneDrive\Desktop\Software Development\CrazyPC\obj\Debug\net8.0-windows\refint\CrazyPC.dll
+C:\Users\Seniors\OneDrive\Desktop\Software Development\CrazyPC\obj\Debug\net8.0-windows\CrazyPC.pdb
+C:\Users\Seniors\OneDrive\Desktop\Software Development\CrazyPC\obj\Debug\net8.0-windows\CrazyPC.genruntimeconfig.cache
+C:\Users\Seniors\OneDrive\Desktop\Software Development\CrazyPC\obj\Debug\net8.0-windows\ref\CrazyPC.dll
